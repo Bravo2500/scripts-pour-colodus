@@ -4,6 +4,7 @@ Utilisation de l'extension iMacros (Firefox ou Chrome) pour automatiser la gesti
 
 
 Sous licence wtlpf
+
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, December 2004
  

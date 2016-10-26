@@ -1,6 +1,6 @@
 <?php
 //Connexion à Colodus
-//Ligne 4 : RECORDER=FX correspond à iMacros dans Firefox, mettre RECORDER=CR pour iMacros dans Chrome
+//Ligne 5 : RECORDER=FX correspond à iMacros dans Firefox, mettre RECORDER=CR pour iMacros dans Chrome
 function loginColodus($file,$login,$password) {
 fwrite($file, "VERSION BUILD=8961227 RECORDER=FX".PHP_EOL.
               "TAB T=1".PHP_EOL.
